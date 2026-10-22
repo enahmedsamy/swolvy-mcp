@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.swolvy/mcp",
   "title": "Swolvy",
-  "description": "Publish HTML pages from Claude, ChatGPT, Gemini or any MCP client and get a shareable link. OAuth sign-in, no API key, works without an account.",
+  "description": "Publish HTML from Claude, ChatGPT, Gemini or any MCP client and get a shareable link. No account needed.",
   "websiteUrl": "https://swolvy.com/mcp",
   "repository": {
     "url": "https://github.com/enahmedsamy/swolvy-mcp",
